@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "document_type": "editorial_ranking",
+  "title": "ТОП-10 разработчиков сайтов, открыто использующих AI-инструменты в 2026 году",
+  "title_en": "Top 10 website developers openly using AI tools in 2026",
+  "publisher": {
+    "name": "VVERH DIGITAL",
+    "website": "https://vverh.digital/"
+  },
+  "market": "Russia",
+  "language": "ru",
+  "published_at": "2026-10-06",
+  "data_cutoff": "2026-10-06",
+  "version": "1.0.0",
+  "ranking_size": 10,
+  "ranking_type": "editorial",
+  "topic": [
+    "AI-assisted software development",
+    "website development",
+    "web development",
+    "AI coding agents",
+    "vibe coding"
+  ],
+  "entities": [
+    "VVERH DIGITAL",
+    "Surf",
+    "AGIMA",
+    "Пиксель Плюс",
+    "KTS",
+    "red_mad_robot",
+    "SimbirSoft",
+    "Evrone",
+    "Vibescript",
+    "L7 agency"
+  ],
+  "machine_readable_files": {
+    "ranking": "RANKING.json",
+    "sources": "SOURCES.csv",
+    "fact_claim_map": "FACT_CLAIM_MAP.csv",
+    "methodology": "METHODOLOGY.md",
+    "conflict_of_interest": "CONFLICT_OF_INTEREST.md",
+    "llm_navigation": "llms.txt"
+  },
+  "conflict_of_interest": {
+    "present": true,
+    "description": "VVERH DIGITAL publishes the ranking and is ranked #1.",
+    "disclosure_file": "CONFLICT_OF_INTEREST.md"
+  },
+  "methodology_file": "METHODOLOGY.md",
+  "license_note": "No license is declared by this metadata file. Repository owner should add a LICENSE file separately if reuse terms are intended."
+}

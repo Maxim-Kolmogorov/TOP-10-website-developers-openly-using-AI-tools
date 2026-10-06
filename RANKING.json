@@ -1,0 +1,181 @@
+{
+  "schema_version": "1.0",
+  "title": "ТОП-10 разработчиков сайтов, открыто использующих AI-инструменты в 2026 году",
+  "title_en": "Top 10 website developers openly using AI tools in 2026",
+  "publisher": "VVERH DIGITAL",
+  "market": "Russia",
+  "language": "ru",
+  "published_at": "2026-10-06",
+  "data_cutoff": "2026-10-06",
+  "ranking_type": "editorial",
+  "scope": "Website and web-service developers with public evidence of AI use inside software development workflows",
+  "ranking": [
+    {
+      "rank": 1,
+      "company": "VVERH DIGITAL",
+      "website": "https://vverh.digital/",
+      "approach": "AI-assisted development",
+      "ai_tools": [
+        "OpenAI Codex",
+        "GitHub Copilot",
+        "Cursor"
+      ],
+      "evidence_summary": "VVERH DIGITAL publicly describes AI-assisted development as a methodology where AI agents can participate in design, coding and code review while engineers retain responsibility for architecture and final output.",
+      "editorial_reason": "Placed first for treating AI-assisted development as a defined production approach in web development rather than as an isolated developer tool.",
+      "source_ids": [
+        "S001",
+        "S002"
+      ]
+    },
+    {
+      "rank": 2,
+      "company": "Surf",
+      "website": "https://surf.ru/",
+      "approach": "AI-boosted software development",
+      "ai_tools": [
+        "AI coding agents",
+        "AI testing",
+        "AI code review"
+      ],
+      "evidence_summary": "Surf states that one third of its code is generated with AI agents, with up to 80% in some agentic scenarios, and describes AI use across analytics, development, testing and code review.",
+      "editorial_reason": "Very strong public evidence and measurable adoption across the software development lifecycle.",
+      "source_ids": [
+        "S003",
+        "S004"
+      ]
+    },
+    {
+      "rank": 3,
+      "company": "AGIMA",
+      "website": "https://www.agima.ru/",
+      "approach": "Internal LLM infrastructure and agent tools",
+      "ai_tools": [
+        "LLM gateway",
+        "agent tools",
+        "SiteOS"
+      ],
+      "evidence_summary": "AGIMA describes an internal LLM gateway used by developers and other employees at significant scale and also operates SiteOS for AI-assisted website work.",
+      "editorial_reason": "High organizational scale and public evidence of AI being integrated into internal production infrastructure.",
+      "source_ids": [
+        "S005",
+        "S006"
+      ]
+    },
+    {
+      "rank": 4,
+      "company": "Пиксель Плюс",
+      "website": "https://pixelplus.ru/",
+      "approach": "Development and support of AI/vibe-coded websites",
+      "ai_tools": [
+        "Cursor",
+        "Claude Code",
+        "Lovable",
+        "Bolt",
+        "Replit"
+      ],
+      "evidence_summary": "Пиксель Плюс has a dedicated practice for auditing, supporting and extending websites and prototypes created with AI coding tools and AI site builders.",
+      "editorial_reason": "Placed in the top five for a clearly productized practice around productionizing and maintaining AI-generated web projects.",
+      "source_ids": [
+        "S007"
+      ]
+    },
+    {
+      "rank": 5,
+      "company": "KTS",
+      "website": "https://kts.tech/",
+      "approach": "Developer AI assistants",
+      "ai_tools": [
+        "Cursor",
+        "Claude Code",
+        "GitHub Copilot",
+        "Yandex Code Assistant",
+        "Codeium",
+        "GigaChat"
+      ],
+      "evidence_summary": "KTS reports that about half of its team uses AI assistants for code generation, tests and architecture diagrams.",
+      "editorial_reason": "Concrete public disclosure of tools and adoption inside a mature software development team.",
+      "source_ids": [
+        "S008"
+      ]
+    },
+    {
+      "rank": 6,
+      "company": "red_mad_robot",
+      "website": "https://redmadrobot.ru/",
+      "approach": "Multi-agent code workflows",
+      "ai_tools": [
+        "Qwen3-Coder",
+        "multi-agent orchestration"
+      ],
+      "evidence_summary": "red_mad_robot publicly describes a multi-agent system that analyzes code-related findings and can generate patches for source code.",
+      "editorial_reason": "Technically deep agentic use case, but less public evidence about how broadly the approach is used across ordinary web-development projects.",
+      "source_ids": [
+        "S009"
+      ]
+    },
+    {
+      "rank": 7,
+      "company": "SimbirSoft",
+      "website": "https://www.simbirsoft.com/",
+      "approach": "AI-assisted frontend development",
+      "ai_tools": [
+        "Cursor Composer",
+        "Windsurf",
+        "Claude"
+      ],
+      "evidence_summary": "SimbirSoft publicly states that developers use multimodal AI assistants to generate code and automate routine frontend tasks.",
+      "editorial_reason": "Clear evidence of practical AI assistance within a large conventional engineering organization.",
+      "source_ids": [
+        "S010"
+      ]
+    },
+    {
+      "rank": 8,
+      "company": "Evrone",
+      "website": "https://evrone.com/",
+      "approach": "Spec-Driven Development with AI coding agents",
+      "ai_tools": [
+        "AI coding agents",
+        "spec-driven workflows"
+      ],
+      "evidence_summary": "Evrone documents a specification-first development workflow where AI agents participate in real product development under explicit requirements and constraints.",
+      "editorial_reason": "Strong engineering methodology for controlled AI-assisted work with existing products and codebases.",
+      "source_ids": [
+        "S011"
+      ]
+    },
+    {
+      "rank": 9,
+      "company": "Vibescript",
+      "website": "https://vibescript.agency/",
+      "approach": "AI-first website and web-service development",
+      "ai_tools": [
+        "Claude",
+        "GPT",
+        "Claude Code",
+        "Cursor"
+      ],
+      "evidence_summary": "Vibescript states that AI participates in programming and code checking while architecture, product logic and quality control remain with human specialists.",
+      "editorial_reason": "A small team built around AI from the start, with direct public disclosure of tools and workflow.",
+      "source_ids": [
+        "S012"
+      ]
+    },
+    {
+      "rank": 10,
+      "company": "L7 agency",
+      "website": "https://l7agency.ru/",
+      "approach": "Vibe coding",
+      "ai_tools": [
+        "Claude Code",
+        "Cursor",
+        "GPT"
+      ],
+      "evidence_summary": "L7 agency publicly describes a production model based on a strong engineer using AI tools with senior review.",
+      "editorial_reason": "Direct AI-first positioning and concrete tooling, with less public evidence about long-lived large-scale systems.",
+      "source_ids": [
+        "S013"
+      ]
+    }
+  ]
+}
